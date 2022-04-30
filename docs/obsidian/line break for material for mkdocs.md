@@ -1,5 +1,4 @@
-# material for mkdocs 에서 새 줄 관련
-
+# line break for material for mkdocs
 ## 세팅
 
 매번 git push 를 할순 없으니 따로 프로젝트 생성
