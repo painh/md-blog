@@ -33,7 +33,7 @@ docs/stylesheets/extra.css
 생성
 ```css
 p {
-  white-space: pre;
+  white-space: pre-wrap;
 }
 ```
 추가
