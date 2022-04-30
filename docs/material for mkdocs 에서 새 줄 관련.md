@@ -1,4 +1,6 @@
-# 세팅
+# material for mkdocs 에서 새 줄 관련
+
+## 세팅
 
 매번 git push 를 할순 없으니 따로 프로젝트 생성
 
@@ -19,19 +21,19 @@ mkdocs.yml 도 플젝 루트에 복사
 
 로 수정 후 테스트
 
-# 빌드/테스트
+## 빌드/테스트
 http://127.0.0.1:8000/unity/TopDownEngine/VideoTutorial/11.%20Weapon/
 의 줄바꿈이 구림을 확인
 
 
-# 수정
+## 수정
 https://squidfunk.github.io/mkdocs-material/customization/
 
 docs/stylesheets/extra.css
 생성
 ```css
 p {
-  white-space: pre-line;
+  white-space: pre;
 }
 ```
 추가
