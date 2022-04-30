@@ -1,5 +1,8 @@
 site_name: painh md blog
 
+extra_css:
+  - stylesheets/extra.css
+
 theme:
     name: 'material'
     palette:
