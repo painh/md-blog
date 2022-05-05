@@ -47,4 +47,6 @@ plugins:
   - search
   - roamlinks 
   - awesome-pages:
-    filename: .index
+      filename: .pages
+      collapse_single_pages: true
+      strict: false
