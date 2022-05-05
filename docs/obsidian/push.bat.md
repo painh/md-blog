@@ -1,3 +1,4 @@
+push.bat
 ```bash
 @echo off
 setlocal enabledelayedexpansion
@@ -19,8 +20,13 @@ git push origin main
 :END
 ```
 
+push_silent.bat
+```shell
+cd /D "%~dp0"
+start /min push.bat
+```
+
 Windows의  작업 스케쥴러로 실행
-	push.bat 를 바로가기로 만든 후 실행을 최소화
+	push_sielt.bat 로 실행
 	스케쥴러 만들땐 첫 실행을 미래로 해야 제대로 실행됨
-	slient mode 로 실행되길 원하기 때문에 아래와 같은 동작으로 등록
 	
