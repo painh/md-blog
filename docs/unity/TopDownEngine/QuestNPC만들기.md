@@ -14,3 +14,9 @@ NPC 추가 관례
 			이걸 Assets/Game/Scene/MinimalScene2D 에 복사
 			NPCs/EncouragingHorns/DialogZone/Dialog
 				에서 대화 텍스트 수정
+
+Topdownengine의 dialoguezone은 기본 기능만 있기 때문에, 
+https://forum.unity.com/threads/released-topdown-engine-by-more-mountains-new-v2-3-tanks-stun-etc.566533/page-24#post-5515231
+
+https://assetstore.unity.com/packages/tools/ai/dialogue-system-for-unity-11672
+를 사면 그때부터 퀘스트 만들 생각
