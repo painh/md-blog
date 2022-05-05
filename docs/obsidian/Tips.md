@@ -1,4 +1,3 @@
-# Tips
 # 화살표가 합쳐지는 문제
 설정 - Appearence - Font 를 설정
 
