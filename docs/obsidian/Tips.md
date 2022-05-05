@@ -20,5 +20,6 @@ mkdocs.yml 수정
 plugins:
   - search
   - roamlinks 
-  - awesome-pages # 추가
+  - awesome-pages: # 추가
+	  filename: .index
 ```

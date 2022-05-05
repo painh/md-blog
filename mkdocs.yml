@@ -46,4 +46,5 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
-  - awesome-pages
+  - awesome-pages:
+    filename: .index
