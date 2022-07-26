@@ -1,5 +1,5 @@
 @echo off
-setlocal enabledelayedexpansion
+@REM setlocal enabledelayedexpansion
 
 cd /D "%~dp0"
 
