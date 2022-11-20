@@ -17,3 +17,6 @@ func dialog_listener(value):
 	print('dialog_listener', value)
 
 ```
+
+## npc talking tutorial
+https://github.com/coppolaemilio/npc-talking-tutorial

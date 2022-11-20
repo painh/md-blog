@@ -14,3 +14,8 @@ run.sh
 cd /home/opc/python_stock_korea_invest
 poetry run python mt_notify.py
 ```
+
+poetry use env
+```
+PS C:\work\python_korea_invest_quant> poetry env use C:\Users\{user-name}\.pyenv\pyenv-win\versions\3.10.8\python
+```
